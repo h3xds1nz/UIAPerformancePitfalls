@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<EnablePreviewFeatures>true</EnablePreviewFeatures>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net10.0-windows</TargetFramework>
+		<Nullable>enable</Nullable>
+		<UseWPF>true</UseWPF>
+		<Platforms>AnyCPU;x64</Platforms>
+	</PropertyGroup>
+	<ItemGroup>
+		<!--<Reference Include="C:\Users\somebody\wpf\artifacts\bin\PresentationFramework\x64\Debug\net10.0\PresentationFramework.dll">
+			<Private>True</Private>
+		</Reference>
+		<Reference Include="C:\Users\somebody\wpf\artifacts\bin\WindowsBase\x64\Debug\net10.0\WindowsBase.dll">
+			<Private>True</Private>
+		</Reference>
+		<Reference Include="C:\Users\somebody\wpf\artifacts\bin\PresentationCore\x64\Debug\net10.0\PresentationCore.dll">
+			<Private>True</Private>
+		</Reference>-->
+		<!--<Reference Include="C:\Users\somebody\wpf\artifacts\bin\System.Xaml\Debug\net9.0\System.Xaml.dll">
+			<Private>True</Private>
+		</Reference>-->
+	</ItemGroup>
+
+</Project>
